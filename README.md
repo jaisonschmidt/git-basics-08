@@ -44,6 +44,20 @@ GitHub é uma **plataforma de hospedagem de código-fonte** baseada na web que u
 - ✅ **Open Source**: Contribua com projetos da comunidade
 - ✅ **Integração**: Conecte com diversas ferramentas de desenvolvimento
 
+### GitHub Copilot
+
+O **GitHub Copilot** é um assistente de programação baseado em inteligência artificial desenvolvido pela GitHub em parceria com a OpenAI. Lançado em 2021, ele utiliza modelos de linguagem avançados para sugerir código em tempo real enquanto você programa.
+
+**Principais características do GitHub Copilot:**
+- 🤖 **Sugestões inteligentes**: Autocompleta código baseado no contexto
+- 💬 **Chat integrado**: Converse com a IA para resolver problemas
+- 🔧 **Suporte multilíngue**: Funciona com dezenas de linguagens de programação
+- 📚 **Geração de testes**: Cria testes unitários automaticamente
+- 🐛 **Correção de bugs**: Identifica e sugere correções para problemas no código
+- 📖 **Explicação de código**: Explica como o código funciona em linguagem natural
+
+O Copilot acelera significativamente o desenvolvimento, especialmente para tarefas repetitivas e padrões de código comuns.
+
 ## Git vs GitHub
 
 | Git | GitHub |
