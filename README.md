@@ -58,6 +58,25 @@ O **GitHub Copilot** é um assistente de programação baseado em inteligência 
 
 O Copilot acelera significativamente o desenvolvimento, especialmente para tarefas repetitivas e padrões de código comuns.
 
+### Pull Requests
+
+O **Pull Request (PR)** é uma funcionalidade fundamental do GitHub que permite propor mudanças em um repositório de forma controlada e colaborativa. É o mecanismo principal para contribuir com projetos e revisar código antes que ele seja integrado ao branch principal.
+
+**Como funciona um Pull Request:**
+- 📝 **Proposta de mudança**: Solicita a integração de commits de um branch para outro
+- 👥 **Revisão colaborativa**: Permite que outros desenvolvedores revisem e comentem o código
+- 💬 **Discussão**: Facilita conversas sobre implementação e melhorias
+- ✅ **Aprovação**: Requer aprovação antes do merge (dependendo das configurações)
+- 🔄 **Iteração**: Permite fazer ajustes baseados no feedback recebido
+
+**Benefícios dos Pull Requests:**
+- 🛡️ **Controle de qualidade**: Garante que o código seja revisado antes da integração
+- 📚 **Documentação**: Mantém histórico das decisões e mudanças
+- 🎓 **Aprendizado**: Desenvolvedores aprendem uns com os outros através das revisões
+- 🐛 **Detecção de bugs**: Múltiplos olhares ajudam a identificar problemas
+
+Os Pull Requests são essenciais para manter a qualidade do código e promover a colaboração efetiva em equipes de desenvolvimento.
+
 ## Git vs GitHub
 
 | Git | GitHub |
